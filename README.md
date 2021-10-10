@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/Markdown-Logo.png" alt="Markdown-Logo" width="400"/></p>
+<p align="center"><img src="./images/MarkdownLogo.png" alt="Markdown-Logo" width="400"/></p>
 
 # Markdown and GFM (GitHub Flavoured Markdown) Crash Course 2021
 
