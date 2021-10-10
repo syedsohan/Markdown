@@ -1,3 +1,5 @@
+<p align="center"><img src="./images/Markdown-Logo.png" alt="Markdown-Logo" width="400"/></p>
+
 # Markdown and GFM (GitHub Flavoured Markdown) Crash Course 2021
 
 Markdown provides a powerful yet straightforward way for users (both technical and non-technical) to write plain text documents that can be rendered richly as HTML.
@@ -56,6 +58,10 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 Note that some features of **GitHub Flavored Markdown** are only available in the descriptions and comments of **Issues** and **Pull Requests**. These include **@mentions** as well as references to **SHA-1 hashes, Issues, and Pull Requests**. Task Lists are also available in Gist comments and in Gist Markdown files.
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Headings 
 
 To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level two `(<h2>)`, use three number signs (e.g. `##` My Header).
@@ -85,6 +91,10 @@ Heading level 2
 ---------------
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Paragraphs
 
 To create paragraphs, use a blank line to separate one or more lines of text.
@@ -103,6 +113,10 @@ To create a line break `(<br>)`, end a line with two or more spaces, and then ty
 This is the first line.  
 And this is the second line.
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Emphasis
 
@@ -145,6 +159,10 @@ You can add emphasis by making text bold or italic.
 - Hello --*World--*.
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Blockquotes
 To create a blockquote, add a `>` in front of a paragraph.
 
@@ -165,6 +183,7 @@ To create a blockquote, add a `>` in front of a paragraph.
   > Hello, World!
   >
   >> Ramadan Mubarak.
+
 
   ## Blockquotes with Other Elements
 
@@ -199,6 +218,10 @@ To create a blockquote, add a `>` in front of a paragraph.
 >> ***Ramadan Mubarak***.
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Lists
 
 You can organize items into ordered and unordered lists.
@@ -210,11 +233,19 @@ You can organize items into ordered and unordered lists.
   1. One
   2. Two
   
+  <div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
   ## Unordered lists
   To create an unordered list, add dashes `(-)`, asterisks `(*)`, or plus signs `(+)` in front of line items. Indent one or more items to create a nested list.
 
   - One
   - Two
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
   ## Adding Elements in Lists
 
@@ -248,6 +279,10 @@ You can organize items into ordered and unordered lists.
 - Four
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Code
 
 To denote a word or phrase as code, enclose it in backticks **(`)**.
@@ -259,6 +294,10 @@ At the command prompt, type `touch`.
 
 At the command prompt, type `touch`.
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Code Blocks
 
@@ -287,6 +326,10 @@ Code blocks are normally indented **four spaces or one tab**. When they’re in 
 
 3. Update the title to match the name of your website.
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Images
 
@@ -324,6 +367,10 @@ You got it right!
 
 You got it right!
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Links
 
@@ -370,6 +417,10 @@ I love ***[GitHub](https://github.com/ "GitHub")***
 See the section on [`Links`](#links).
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Escaping Characters
 
 To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash `(\)`in front of the character.
@@ -385,6 +436,10 @@ You can use a backslash to escape the following characters:
 
 \- Without the backslash, this would be a bullet in an unordered list.
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Tables
 
@@ -411,6 +466,10 @@ Build a table using the graphical interface, and then copy the generated Markdow
 | Kevin         | 56          | Kazakhstan    |
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Fenced Code Blocks
 
 The basic Markdown syntax allows you to create code blocks by indenting lines by four spaces or one tab, but sometimes it is a hectic one to do. So by using fenced code blocks we can get rid of it. Three backticks (```) or three tildes (~~~) on the lines before and after the code block will do the work for you.
@@ -434,6 +493,10 @@ The basic Markdown syntax allows you to create code blocks by indenting lines by
     }
     ```
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Syntax Highlighting
 
@@ -459,6 +522,10 @@ Many Markdown processors support syntax highlighting for fenced code blocks. Thi
     ```
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Heading IDs
 
 To add a custom heading ID, enclose the custom ID in curly braces on the same line as the heading.
@@ -473,6 +540,10 @@ You can link to headings with custom IDs in the file by creating a standard link
 [Heading IDs](#heading-ids)
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Strikethrough
 
 This feature allows you to indicate that certain words are a mistake not meant for inclusion in the document. To strikethrough words, use two tilde symbols `(~~)` before and after the words.
@@ -484,6 +555,10 @@ This feature allows you to indicate that certain words are a mistake not meant f
 
 ~~Hello Wprld~~! Hello World!
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Task Lists
 
@@ -500,6 +575,10 @@ Task lists allow you to create a list of items with checkboxes. To create a task
 - [ ] Practice Markdown.
 - [ ] Repeat It.
 ```
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ##  Collapsible Items
 
@@ -527,6 +606,10 @@ Content can be collapsed using HTML’s `<details>` and `<summary>` tags.
 </details>
 ```
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Badges
 
 Browse [Shields Io](https://shields.io/) a complete list of badges and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
@@ -535,15 +618,27 @@ Use the button at the bottom to copy your badge url or snippet, which can then b
 
 ![Badge](https://img.shields.io/badge/Language-Markdown-lightgrey)
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Emoji
 
 There are two ways to add emoji to Markdown files: copy and paste the [emoji](https://emojipedia.org/) into your Markdown-formatted text, or type emoji shortcodes.
 
 That is so funny! 😂
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Automatic URL Linking
 
 That means if you type http://www.example.com, your Markdown processor will automatically turn it into a link even though you haven’t used brackets.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Disabling Automatic URL Linking
 
@@ -556,6 +651,15 @@ If you don’t want a URL to be automatically linked, you can remove the link by
 
 `http://www.example.com`
 ```
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
 
 ---
 
