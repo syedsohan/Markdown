@@ -655,9 +655,13 @@ If you don’t want a URL to be automatically linked, you can remove the link by
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## License
+## 🛡️ License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
 
   
 
