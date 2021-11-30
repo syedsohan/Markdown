@@ -663,6 +663,12 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
 
+If you like this project, please consider <b>Buying Me a Coffee.</b> 
+
+Thanks for the Support.
+
+<a href="https://www.buymeacoffee.com/syedsohan" target="_blank"><center><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></center></a>
+
   
 
 ---
