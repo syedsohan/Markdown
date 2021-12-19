@@ -671,15 +671,3 @@ Thanks for the Support. 😍
 <div align="center">
 <a href="https://www.buymeacoffee.com/syedsohan" target="_blank"><center><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></center></a>
 </div>
-
-  
-
----
-
-<div align="center">
-Copyright &copy; 2021 <b><a href="https://github.com/syedsohan ">@syedsohan</a></b>
-</div>
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
